@@ -4,6 +4,8 @@
 
 ProductOS brings the PM's scattered inputs (Jira, GitHub, Slack and customer feedback) into one workspace, then hands the busywork to specialized AI agents. Each agent owns one part of the PM job, so the PM can spend time on judgment instead of admin.
 
+**Live demo:** https://productos-729343096118.asia-southeast1.run.app/
+
 **Impact goal:** cut manual PM effort by 65%.
 
 ## The problem
