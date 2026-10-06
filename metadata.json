@@ -1,0 +1,6 @@
+{
+  "name": "ProductOS",
+  "description": "The AI Operating System for Product Managers. Automate PRD analysis, backlog prioritization, user stories, customer insights, and roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
