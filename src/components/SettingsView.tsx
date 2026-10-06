@@ -39,7 +39,7 @@ export default function SettingsView({ agents, setAgents }: SettingsViewProps) {
   const [saveSuccess, setSaveSuccess] = useState<boolean>(false);
 
   const teamRoster = [
-    { name: 'Sumedh Bundele', role: 'Senior Product Manager', email: 'sumedh.bundele.work@gmail.com', avatar: 'SB', permission: 'Owner' },
+    { name: 'Sumedh Bundele', role: 'Senior Product Manager', email: 'sumedh@productos.ai', avatar: 'SB', permission: 'Owner' },
     { name: 'Sanjay Krishnan', role: 'Lead Architect', email: 'sanjay.k@productos.ai', avatar: 'SK', permission: 'Admin' },
     { name: 'Sarah Jenkins', role: 'Group Product Director', email: 'sarah.j@acme.com', avatar: 'SJ', permission: 'Contributor' },
     { name: 'Alex Rivera', role: 'Staff Integration Engineer', email: 'alex.r@productos.ai', avatar: 'AR', permission: 'Contributor' }
